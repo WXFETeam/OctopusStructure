@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+      "outDir": "./dist/",
+      "baseUrl": ".",
+      "paths": {},
+      "sourceMap": true,
+      "noImplicitAny": false,
+      "module": "esNext",
+      "target": "es6",
+      "jsx": "react",
+      "moduleResolution": "node",
+      "skipLibCheck": true,
+      "experimentalDecorators": true,
+      "allowJs": true,
+      "allowSyntheticDefaultImports": true
+    },
+    "include": [
+    ],
+    "exclued": [
+      "node_modules"
+    ]
+  }

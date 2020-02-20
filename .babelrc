@@ -1,0 +1,21 @@
+{
+  "presets": [
+    "env",
+    "react-native-stage-0/decorator-support"
+  ],
+  "plugins": [
+    "transform-decorators-legacy",
+    "transform-runtime",
+    "transform-object-assign",
+    "syntax-dynamic-import",
+    "lodash",
+    [
+      "import",
+      {
+        //remove 'libraryDirectory' param and set to 'css' and you can import antd-css by your specific requirements.
+        "libraryName": "antd",
+        "style": "css" 
+    }]
+  ],
+"comments": true
+}

@@ -1,0 +1,7 @@
+{
+  "projectName": "octopus",
+  "deployContent": {
+    "web": ["bizA", "bizB"]
+  },
+  "mode": "local"
+}
