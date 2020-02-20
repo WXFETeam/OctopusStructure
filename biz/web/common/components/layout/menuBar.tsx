@@ -34,7 +34,7 @@ export default class MenuBar extends React.Component<props, states> {
         super(props);
         this.state = {
             menuItems,
-            rootSubmenuKeys: ['bizA', 'bizB', 'bizC'],
+            rootSubmenuKeys: ['bizA', 'bizB', 'bizC', 'wholeCase'],
             openKeys: [''],
             selectedKeys: ['']
         };

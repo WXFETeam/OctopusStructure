@@ -102,6 +102,12 @@ export default {
         }
       ]
     },
+    {
+      "key": "wholeCase",
+      "name": "wholeCase",
+      "url": "/wholeCase",
+      "wholeUrl": "/web/wholeCase"
+    }
   ],
   supportedLang: [{
     name: 'English',
