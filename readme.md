@@ -1,7 +1,7 @@
 # How to run Octopus
 
 ## 1.Install Node Modules: npm install
-## 2.Add 'devConfig.json' File and set values for 'deployContent' as "web": ["wholeCase"]
+## 2.Add 'devConfig.json' file below 'build' catalogy and copy the whole content from ' releaseConf,json' and change values for 'deployContent' as "web": ["wholeCase"]
 ## 3.Run App: npm start
 ## 4.Browse 'http://localhost:7777/web/wholeCase'
 ## Remarks:
