@@ -9,6 +9,7 @@
     "transform-object-assign",
     "syntax-dynamic-import",
     "lodash",
+    "transform-es2015-modules-commonjs",
     [
       "import",
       {
