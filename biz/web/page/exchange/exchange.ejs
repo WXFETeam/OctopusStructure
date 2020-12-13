@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="HandheldFriendly" content="true">
+    <meta name="format-detection" content="telephone=no">
+    <title>exchange</title>
+</head>
+<body>
+<div id="app"></div>
+<script>
+    window.deployConf = {
+        platform: "<%= htmlWebpackPlugin.options.deployConf.platform %>",
+        page: "<%= htmlWebpackPlugin.options.deployConf.page %>",
+        mode: "<%= htmlWebpackPlugin.options.deployConf.mode %>",
+    }
+</script>
+<script type="text/javascript" src="<%= htmlWebpackPlugin.options.deployConf.tvLoadPath %>/charting_library/charting_library.min.js"></script>
+</body>
+</html>

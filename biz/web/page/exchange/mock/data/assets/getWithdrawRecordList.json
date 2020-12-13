@@ -1,0 +1,45 @@
+{
+    "list": [{
+      "id": "001",
+      "currency": "USD",
+      "status": "1",
+      "type": "Omni",
+      "size": "1.00000000",
+      "date": "2019/12/30 15:09:24"
+    }, {
+      "id": "002",
+      "currency": "BTC",
+      "status": "1",
+      "type": "Omni",
+      "size": "2.00000000",
+      "date": "2019/12/30 15:09:24"
+    }, {
+      "id": "003",
+      "currency": "USDT",
+      "status": "1",
+      "type": "Omni",
+      "size": "3.00000000",
+      "date": "2019/12/30 15:09:24"
+    }, {
+      "id": "004",
+      "currency": "ETH",
+      "status": "1",
+      "type": "Omni",
+      "size": "4.00000000",
+      "date": "2019/12/30 15:09:24"
+    }, {
+      "id": "005",
+      "currency": "USD",
+      "status": "1",
+      "type": "Omni",
+      "size": "5.00000000",
+      "date": "2019/12/30 15:09:24"
+    }, {
+      "id": "006",
+      "currency": "BTC",
+      "status": "1",
+      "type": "Omni",
+      "size": "5.00000000",
+      "date": "2019/12/30 15:09:24"
+    }]
+  }

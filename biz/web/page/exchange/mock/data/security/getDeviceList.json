@@ -1,0 +1,74 @@
+{
+    "list": [
+        {
+            "key": "first",
+            "device": "Chrome V80.0.3987.12",
+            "address": "Tokyo Japan",
+            "loginTime": "2020/02/21 15:09:24",
+            "ip": "207.148.88.229",
+            "floor": true,
+            "children": [
+                {
+                    "key": "a",
+                    "address": "Tokyo Japan",
+                    "loginTime": "2020/02/21 15:09:24",
+                    "ip": "207.148.88.229"
+                },
+                {
+                    "key": "b",
+                    "address": "Tokyo Japan",
+                    "loginTime": "2020/02/21 15:09:24",
+                    "ip": "207.148.88.229"
+                }
+            ]
+        },
+        {
+            "key": "second",
+            "device": "Chrome V80.0.3987.13",
+            "address": "Tokyo Japan",
+            "loginTime": "2020/02/21 15:09:24",
+            "ip": "207.148.88.229",
+            "floor": true
+        },
+        {
+            "key": "third",
+            "device": "Chrome V80.0.3987.14",
+            "address": "Tokyo Japan",
+            "loginTime": "2020/02/21 15:09:24",
+            "ip": "207.148.88.229",
+            "floor": true,
+            "children": [
+                {
+                    "key": "c",
+                    "address": "Tokyo Japan",
+                    "loginTime": "2020/02/21 15:09:24",
+                    "ip": "207.148.88.229"
+                },
+                {
+                    "key": "d",
+                    "address": "Tokyo Japan",
+                    "loginTime": "2020/02/21 15:09:24",
+                    "ip": "207.148.88.229"
+                },
+                {
+                    "key": "e",
+                    "address": "Tokyo Japan",
+                    "loginTime": "2020/02/21 15:09:24",
+                    "ip": "207.148.88.229"
+                },
+                {
+                    "key": "f",
+                    "address": "Tokyo Japan",
+                    "loginTime": "2020/02/21 15:09:24",
+                    "ip": "207.148.88.229"
+                },
+                {
+                    "key": "g",
+                    "address": "查看更多",
+                    "showMore": true
+                }
+            ]
+        }
+    ],
+    "total":3
+}

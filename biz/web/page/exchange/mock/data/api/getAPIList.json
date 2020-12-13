@@ -1,0 +1,23 @@
+{
+    "list":[{
+        "id":"1",
+        "APIAuthority":["1","2"],
+        "IPAddressAuthority":"1",
+        "APIName":"基金1号专用api",
+        "IPList":["192.168.1.1","192.168.1.2"]
+    },
+    {
+        "id":"2",
+        "APIAuthority":["1","3"],
+        "IPAddressAuthority":"2",
+        "APIName":"基金2号专用api",
+        "IPList":["192.168.1.1","192.168.1.2"]
+    },
+    {
+        "id":"3",
+        "APIAuthority":["1","3"],
+        "IPAddressAuthority":"2",
+        "APIName":"基金3号专用api",
+        "IPList":["192.168.1.1","192.168.1.2"]
+    }]
+}

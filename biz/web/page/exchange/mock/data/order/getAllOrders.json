@@ -1,0 +1,36 @@
+[{
+    "id": "001",
+    "delegationTime": "2019/12/30 15:09:24",
+    "product": "BTC/USDT",
+    "type": "002",
+    "direction": "买入",
+    "price": "20",
+    "num": "8.00000000",
+    "completeness": "80%",
+    "dealAmt": "600.00",
+    "condition": "20"
+  },
+  {
+    "id": "002",
+    "delegationTime": "2019/12/30 15:09:24",
+    "product": "BTC/USDT",
+    "type": "002",
+    "direction": "买入",
+    "price": "20",
+    "num": "8.00000000",
+    "completeness": "80%",
+    "dealAmt": "600.00",
+    "condition": "30"
+  },
+  {
+    "id": "002",
+    "delegationTime": "2019/12/30 15:09:24",
+    "product": "BTC/USDT",
+    "type": "002",
+    "direction": "买入",
+    "price": "20",
+    "num": "8.00000000",
+    "completeness": "80%",
+    "dealAmt": "600.00",
+    "condition": "40"
+  }]

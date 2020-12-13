@@ -1,0 +1,38 @@
+{
+    "list":[{
+        "key": "1",
+        "coinType": "BTC1",
+        "info": "BTC1",
+        "addr": "ABCDEFGHIJKLMN1",
+        "tag": "ERC20",
+        "status": "认证中",
+        "action": "删除"
+    },
+    {
+        "key": "2",
+        "coinType": "BTC1",
+        "info": "BTC1",
+        "addr": "ABCDEFGHIJKLMN1",
+        "tag": "ERC20",
+        "status": "认证中",
+        "action": "删除"
+    },
+    {
+        "key": "3",
+        "coinType": "BTC1",
+        "info": "BTC1",
+        "addr": "ABCDEFGHIJKLMN1",
+        "tag": "ERC20",
+        "status": "认证中",
+        "action": "删除"
+    },
+    {
+        "key": "4",
+        "coinType": "BTC1",
+        "info": "BTC1",
+        "addr": "ABCDEFGHIJKLMN1",
+        "tag": "ERC20",
+        "status": "认证中",
+        "action": "删除"
+    }]
+}
