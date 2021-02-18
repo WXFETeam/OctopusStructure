@@ -1,0 +1,12 @@
+{
+    "vendorConf": ["lodash", "moment", "antd"],
+    "antdIconList": [
+        "Down",
+        "Search", 
+        "CaretDown", 
+        "CaretUp",
+        "CaretDownFill", 
+        "CaretUpFill"
+
+    ]
+}

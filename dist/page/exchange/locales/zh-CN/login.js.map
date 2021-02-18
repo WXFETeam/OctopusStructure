@@ -1,0 +1,1 @@
+{"version":3,"file":"login.js","sourceRoot":"","sources":["../../../../../biz/web/page/exchange/locales/zh-CN/login.ts"],"names":[],"mappings":"AAAA,eAAe;IACX,QAAQ,EAAE;QACN,OAAO,EAAE,IAAI;QACb,SAAS,EAAE,SAAS;KACvB;IACD,iBAAiB,EAAE,QAAQ;IAC3B,MAAM,EAAE;QACJ,OAAO,EAAE;YACL,UAAU,EAAE;gBACR,OAAO,EAAE,6BAA6B;aACzC;SACJ;KACJ;CACJ,CAAA"}

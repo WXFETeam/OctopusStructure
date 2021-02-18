@@ -1,0 +1,10 @@
+{
+  "amount001": "90000.00",
+  "currency": "USDT",
+  "amount002": "0.000000",
+  "subAccount": {
+    "amount001": "90000.00",
+    "currency": "USDT",
+    "amount002": "0.000000"
+  }
+}

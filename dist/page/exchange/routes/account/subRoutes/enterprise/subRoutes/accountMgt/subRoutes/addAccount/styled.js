@@ -1,0 +1,10 @@
+import styled from 'styled-components';
+const WrapperAccountMgtCmp = styled.div `
+    
+`;
+const Content = styled.div `
+    width:1260px;
+    margin:41px auto 0;
+`;
+export { WrapperAccountMgtCmp, Content };
+//# sourceMappingURL=styled.js.map
